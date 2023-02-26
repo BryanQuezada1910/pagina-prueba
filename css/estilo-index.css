@@ -1,3 +1,7 @@
 #barra{
-    color: black;
+    background-color: burlywood;
+}
+
+#barra li a{
+    color: brown;
 }
